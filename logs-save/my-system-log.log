@@ -1,0 +1,6 @@
+2020-05-03 17:33:24:INFO INFO : temp.Log4jMain {main() : Line.15} - hello log4j scala info
+2020-05-03 17:33:24:WARN WARN : temp.Log4jMain {main() : Line.16} - hello log4j scala warn
+2020-05-03 17:38:41:INFO INFO : temp.Slf4jMain {main() : Line.15} - hello slf info
+2020-05-03 17:38:41:WARN WARN : temp.Slf4jMain {main() : Line.16} - hello slf warn
+2020-05-03 18:42:00:INFO INFO : temp.MyNormalClass {logInfo() : Line.24} - hello logging trait info
+2020-05-03 18:42:00:WARN WARN : temp.MyNormalClass {logWarning() : Line.36} - hello logging trait warn
