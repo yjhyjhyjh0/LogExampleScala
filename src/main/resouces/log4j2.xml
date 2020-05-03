@@ -10,7 +10,7 @@
     <Appenders>
         <!-- console output -->
         <Console name="Console" target="SYSTEM_OUT"> <!-- -->
-            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss}:%4p %-5level: %logger{36} {%M() : Line.%L} - %msg%n"/>
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss}:%4p: %logger{36} {%M() : Line.%L} - %msg%n"/>
             <!--pattern="%d{yyyy-MM-dd HH:mm:ss}:%4p [%t] %-5level: %logger{36} {%L : %M()} - %msg%n" />-->
         </Console>
 
